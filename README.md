@@ -1,7 +1,10 @@
 ### boas vindas ao meu perfil😄
 
-meu nome é kauan mais conhecido como jamal 
+Estou estudando na Alura
+Estou me desenvolvendo na linguagem JavaScript
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-- preto
-- -alto
-- casado :
+Você pode entrar em contato comigo 📫
+alurastartestudante@email.com
+
+@alurastartestudante
